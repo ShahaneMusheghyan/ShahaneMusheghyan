@@ -1,4 +1,5 @@
-
+![Affinity](https://img.shields.io/badge/affinity-%231B72BE.svg?style=for-the-badge&logo=affinity&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/coreldraw-%23008000.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahane-musheghyan-a70542439) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shahaneshine) 
 
