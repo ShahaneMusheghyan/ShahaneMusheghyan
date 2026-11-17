@@ -1,10 +1,14 @@
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E77291?style=flat&logo=linkedin&logoColor=3E0014)](https://linkedin.com/in/shahane-musheghyan-a70542439) [![Pinterest](https://img.shields.io/badge/Pinterest-E77291?style=flat&logo=pinterest&logoColor=3E0014)](https://pinterest.com/shahaneshine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B7CCE5?style=flat&logo=linkedin&logoColor=5B2330)](https://linkedin.com/in/shahane-musheghyan-a70542439) [![Pinterest](https://img.shields.io/badge/Pinterest-B7CCE5?style=flat&logo=pinterest&logoColor=5B2330)](https://pinterest.com/shahaneshine)
+
+<br/>
 
 ### Tech & Design Stack
-![C++](https://img.shields.io/badge/C++-E77291?style=flat&logo=cplusplus&logoColor=3E0014) ![Python](https://img.shields.io/badge/Python-E77291?style=flat&logo=python&logoColor=3E0014) ![Figma](https://img.shields.io/badge/Figma-E77291?style=flat&logo=figma&logoColor=3E0014) ![Affinity](https://img.shields.io/badge/Affinity-E77291?style=flat&logo=affinity&logoColor=3E0014) ![Photoshop](https://img.shields.io/badge/Photoshop-E77291?style=flat&logo=adobephotoshop&logoColor=3E0014) ![Canva](https://img.shields.io/badge/Canva-E77291?style=flat&logo=canva&logoColor=3E0014) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-E77291?style=flat&logo=coreldraw&logoColor=3E0014)
+![C++](https://img.shields.io/badge/C++-B7CCE5?style=flat&logo=cplusplus&logoColor=5B2330) ![Python](https://img.shields.io/badge/Python-B7CCE5?style=flat&logo=python&logoColor=5B2330) ![Figma](https://img.shields.io/badge/Figma-B7CCE5?style=flat&logo=figma&logoColor=5B2330) ![Affinity](https://img.shields.io/badge/Affinity-B7CCE5?style=flat&logo=affinity&logoColor=5B2330) ![Photoshop](https://img.shields.io/badge/Photoshop-B7CCE5?style=flat&logo=adobephotoshop&logoColor=5B2330) ![Canva](https://img.shields.io/badge/Canva-B7CCE5?style=flat&logo=canva&logoColor=5B2330) ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-B7CCE5?style=flat&logo=coreldraw&logoColor=5B2330)
+
+<br/>
 
 ### GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=ShahaneMusheghyan&bg_color=3E0014&title_color=E77291&icon_color=E77291&text_color=FCEEF2&border_color=E77291&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=ShahaneMusheghyan&bg_color=00000000&title_color=B7CCE5&icon_color=B7CCE5&text_color=E6EEF8&border_color=5B2330&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=ShahaneMusheghyan&background=3E0014&border=E77291&stroke=E77291&ring=E77291&fire=E77291&currStreakNum=FCEEF2&sideNums=FCEEF2&currStreakLabel=E77291&sideLabels=E77291&dates=E77291&hide_border=false)
+![](https://streak-stats.demolab.com/?user=ShahaneMusheghyan&background=00000000&border=5B2330&stroke=5B2330&ring=B7CCE5&fire=B7CCE5&currStreakNum=E6EEF8&sideNums=E6EEF8&currStreakLabel=B7CCE5&sideLabels=B7CCE5&dates=9FB4CE&hide_border=false)
